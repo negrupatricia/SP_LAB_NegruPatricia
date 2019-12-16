@@ -1,0 +1,10 @@
+Section -> Capitolul 1
+Paragraph -> Paragraph 1
+Paragraph -> Paragraph 2
+Paragraph -> Paragraph 4
+Imagine Proxy-> ImageOne
+Imagine -> ImageTwo
+Paragraph -> Some text
+Table -> Table 1
+Section -> Capitolul 2
+Paragraph -> Paragraph 3
